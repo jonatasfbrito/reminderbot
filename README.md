@@ -1,12 +1,23 @@
 # Reminder Bot
 
-- Reminder é um bot para telegram que funciona como um alarme de data. Ele irá lhe lembrar de alguma data específica que você tenha cadastrado.
+- Ele irá lhe lembrar de alguma data específica que você tenha cadastrado.
+
+
+#Libs e Frameworks
+
+- PyTelegramBotAPI
+- datetime
+- date
+- sqlite3
+- threading
 
 # Funções
 
-- Cadastro de datas;
-- Lembrete;
-- Exclusão de datas.
+- Cadastro de datas [X]
+- Lembrete [X]
+- Exclusão de datas [X]
+- Update de datas [ ]
+
 
 # Commits e sugestões estão sendo aceitos.
 
